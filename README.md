@@ -367,8 +367,9 @@ Nackdelar:
 - Telecom
 - Medier & underhållning
 - Energi & naturresurser
-- Googles GCP Dataproc
-- Microsoft Azure HDInsight
+- Googles GCP - Dataproc
+- Microsoft Azure - HDInsight
+- AWS - Elastic MapReduce (EMR)
 
 ### Google File System (GFS)
 
@@ -379,6 +380,28 @@ Nackdelar:
 
 ### SPARK
 
--
+- programspråk med hög tillförlitlighet, säkerhet och möjligheter till underhåll
+
+#### Apache Spark
+
+- open source
+- analysmotor för storskalig databehandling där data har en hög grad av komplexitet och där stora datamöngder analyseras i distribuerade system
+- stöd för flertalet språk
+- anväds ofta i big data analyser och ML
+
+Födelar:
+
+- hastighet
+- mångsidighet
+- enkelhet
+- skalbarhet
+- felhantering
+
+Nackdelar:
+
+- minneskrav
+- komplexitet vid finjustering
+- konstnader för infrastuktur
+- begränsat stöd för realtidsbearbetning
 
 ### Databricks
